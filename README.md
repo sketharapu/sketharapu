@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ketharapusreekanth@gmail.com
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
-> ***More than ten years of experience in Machine Learning, Deep Learning, Data visualization, 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) > ***More than ten years of experience in Machine Learning, Deep Learning, Data visualization, 
 Predictive Analytics, working effectively with diverse groups at all organizational 
 levels to achieve common objectives. Currently pursuing Masters in Artificial Intelligence from University of Michigan Dearborn***
 
